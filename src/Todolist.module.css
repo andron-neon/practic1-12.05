@@ -1,0 +1,9 @@
+.error {
+    border: red 3px solid;
+}
+.errorMessage {
+    color: red;
+}
+.activeFilter {
+    background-color: aqua;
+}
